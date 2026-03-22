@@ -1,28 +1,40 @@
 # Timothy Gudlewski
 
-gudlewski.timothy@gmail.com <!-- update with your actual contact info -->
+email@gmail.com | GitHub | LinkedIn | Phone
 
 ---
 
 ## Experience
 
 **Computer Application Programmer**
-New York State Unified Court System — April 2025–Present
+
+New York State Unified Court System -- April 2025 - Present
 
 - Designed a system interfacing with an internal court API to auto-tag PDFs for accessibility, ensuring ADA compliance at scale
 - Overhauled the PDF stamping system to use a free open-source Java library in place of a paid one, saving the court system potentially millions of dollars
-- Wrote a custom Java Apache Ant build task that reduces build times by 10–20x in common build scenarios, significantly improving developer productivity
+- Wrote a custom Apache Ant build task that reduces build times by 10-20x in common build scenarios, significantly improving developer productivity
 - Designed a repeatable workflow using GitHub Copilot agents to identify and fix accessibility issues in Freemarker Template Language files
 - Added two-factor authentication to the court system's web application, strengthening user account security
 - Mentored and onboarded new hires: assigned tasks, reviewed code, and provided technical guidance
 - Delivered routine feature work and bug fixes by tracking and closing Jira tickets
 
-**Primary technologies:** Java EE, Oracle SQL, Freemarker Template Language, Apache Ant, Apache Ivy, Apache Subversion
+**Primary technologies:** Java EE, Oracle SQL, Freemarker Template Language, Apache Ant, Apache Ivy, Apache Subversion, GitHub Copilot, PowerShell, PL/SQL
+
+---
+
+## Open Source Contributions
+
+**[Files](https://github.com/files-community/Files)**
+
+.NET/C# Windows GUI File Manager -- *2024*
+
+- Fixed Google Drive interactivity issues by working with low-level Windows Registry (RegEdit) APIs
+- Coordinated with the Files team and the issue reporter to validate and iterate on the fix
 
 ---
 
 ## Education
 
-**B.S., Computer Science** — SUNY Albany, 2024
+**B.S., Computer Science** - SUNY Albany, 2024
 
-**B.A., Music** — SUNY Albany, 2010 *(Summa Cum Laude)*
+**B.A., Music** - SUNY Albany, 2010 *(Summa Cum Laude)*
