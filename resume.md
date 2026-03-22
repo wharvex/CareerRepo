@@ -17,7 +17,7 @@ New York State Unified Court System — April 2025–Present
 - Mentored and onboarded new hires: assigned tasks, reviewed code, and provided technical guidance
 - Delivered routine feature work and bug fixes by tracking and closing Jira tickets
 
-**Primary technologies:** Java, SQL
+**Primary technologies:** Java EE, Oracle SQL, Freemarker Template Language, Apache Ant, Apache Ivy, Apache Subversion
 
 ---
 
